@@ -1,0 +1,21 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:knofler/app.git
+[submodule "api"]
+	path = api
+	url = git@github.com:knofler/api.git
+[submodule "lambda"]
+	path = lambda
+	url = git@github.com:knofler/lambda.git
+[submodule "cdk"]
+	path = cdk
+	url = git@github.com:knofler/cdk.git
+[submodule "aframework-cloudformation"]
+	path = aframework-cloudformation
+	url = git@github.com:knofler/aframework-cloudformation.git
+[submodule "docker"]
+	path = docker
+	url = git@github.com:knofler/docker.git
+[submodule "generator"]
+	path = generator
+	url = git@github.com:knofler/generator.git
