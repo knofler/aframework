@@ -19,3 +19,6 @@
 [submodule "generator"]
 	path = generator
 	url = git@github.com:knofler/generator.git
+[submodule "graphql"]
+	path = graphql
+	url = git@github.com:knofler/graphql.git
